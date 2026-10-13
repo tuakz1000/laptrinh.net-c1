@@ -1,0 +1,8 @@
+E:\laptrinh .net\chuong1\bai4\bin\Debug\bai4.exe.config
+E:\laptrinh .net\chuong1\bai4\bin\Debug\bai4.exe
+E:\laptrinh .net\chuong1\bai4\bin\Debug\bai4.pdb
+E:\laptrinh .net\chuong1\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+E:\laptrinh .net\chuong1\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+E:\laptrinh .net\chuong1\bai4\obj\Debug\bai4.exe
+E:\laptrinh .net\chuong1\bai4\obj\Debug\bai4.pdb
+E:\laptrinh .net\chuong1\bai4\obj\Debug\bai4.exe.config
